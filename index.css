@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+nav{
+    position:fixed;
+    background-color: black;
+    
+}
+b{
+    color:orange;
+}
