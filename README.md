@@ -1,4 +1,4 @@
-# 🌟 MANJULATHA 🌟
+#  MANJULATHA 
 
 Welcome to my portfolio! Here, you can explore my skills, projects, and how to connect with me.
 
